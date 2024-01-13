@@ -3,8 +3,8 @@ title: Cheap Appliance Repair
 email: ask@cheaprepair.link
 url: https://www.cheaprepair.link
 description: "Cheapest appliance diagnostics in Ottawa. Quick, reliable fixes and no hidden services. Save big on your repairs with Cheap Repair!"
-keywords: "your keywords, separated by commas"
-skills: " (+1)819-441-5398 "
+keywords: "Cheap Repair Ottawa, Affordable Appliance Repair, Ottawa Appliance Services, Budget Appliance Fix Ottawa, Ottawa Home Appliance Repair, Low-Cost Appliance Repair, Ottawa Appliance Diagnostics, Economical Repair Services Ottawa, Ottawa Appliance Maintenance, Discount Appliance Repair Ottawa, Ottawa Appliance Technicians, Ottawa Refrigerator Repair, Budget-Friendly Oven Repair Ottawa, Ottawa Dishwasher Repair Service, Affordable Washer Repair Ottawa, Dryer Repair Ottawa, Ottawa Kitchen Appliance Repair, Cheap Appliance Parts Ottawa, Ottawa Major Appliance Repair, Best Price Appliance Repair Ottawa"
+skills: " Cheap - Fast - Reliable "
 meta_author: Repair Cheap
 
 # Google webmaster tools
@@ -40,23 +40,23 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: instagram
+    url: 
+  - title: youtube
+    url: 
   - title: github
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Parliament Hill
-  - line: Ottawa, ON 90210
+  - line: Ottawa
+  - line: Ontario
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
