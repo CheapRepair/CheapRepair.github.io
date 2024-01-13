@@ -1,10 +1,10 @@
 # Site settings
-title: CheapRepair
-email: support@cheaprepair.link
+title: Cheap Repair
+email: ask@cheaprepair.link
 url: https://www.cheaprepair.link
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Cheap - Fast - No Hidden Fees"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: CheapRepair
   location: Location
   social: Around the Web
   credits: Credits
@@ -52,7 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: ParliamentHill
+  - line: Parliament Hill
   - line: Ottawa, ON 90210
 
 # Credits content
