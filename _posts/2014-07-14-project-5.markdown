@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2014-07-18
 img: safe.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: $80
+client: $100
+category: $60
+title: Dryers
+description: At Cheap Repair we strive to save our customers the most money possible. That is why we have  SPECIAL DISCOUNTS for customers who choose to work with us again! Enjoyed our service for the first time?  ENJOY 15% OFF on all future service calls! Did you use our services more than 30 times? Or had recommended 30 people who then used our services? WE APPRECIATE YOUR LOYALTY AND WELCOME TO OUR SAVINGS CLUB <3 GET AN EXTRA 30% OFF ON ALL OF YOUR FUTURE SERVICES PLUS EXTRA 10% OFF WITH EACH CONSECUTIVE YEAR UP TO 50% OFF !!! It pays to stay with us!
 ---
