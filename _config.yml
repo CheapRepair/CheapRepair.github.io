@@ -8,7 +8,7 @@ skills: " Cheap - Fast - Reliable "
 meta_author: Repair Cheap
 
 # Google webmaster tools
-google_verify:
+google_verify: google-site-verification=0U1LlD3LB__ky1VPD9mQVpmFkJDMgtbmrfWSiaacO8k
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
