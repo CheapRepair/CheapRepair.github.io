@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Ottawa
-  - line: Ontario
+  - line: Ottawa, ON
+  - line: Canada
 
 # Credits content
 credits: 'Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
