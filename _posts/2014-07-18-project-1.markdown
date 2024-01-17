@@ -8,5 +8,5 @@ project-date: $80
 client: $100
 category: $60
 title: Fridges
-description: 
+description: Welcome to Cheap Appliance Repair, where we offer the most affordable refrigerator repair services in Ottawa. At Cheap Repair, we prioritize making appliance repair accessible and budget-friendly for all our customers. Our experienced technicians specialize in delivering cost-effective solutions for any refrigerator issue, ensuring your appliance runs smoothly without breaking the bank. Special Offers at Cheap Repair !! We're dedicated to providing the best value for your money. Check out our exclusive discounts. !! << First-Time Customers >> !! Enjoyed our service? Get a 15% discount on all future service calls. !! << Loyalty Savings Club >> !! Are you a frequent customer, or have you referred 30 people who used our services? Join our Savings Club to receive an additional 30% off on all future services. Plus, enjoy an extra 10% off each consecutive year, up to a total of 50% off. Your loyalty pays off with us! Choose Cheap Repair Ottawa for the cheapest refrigerator repair services in town. We guarantee high-quality service at unbeatable prices. Call us at 613-807-8646 for your refrigerator repair needs and take advantage of our amazing discounts and savings programs.
 ---
